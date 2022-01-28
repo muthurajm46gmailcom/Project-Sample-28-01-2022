@@ -1,6 +1,11 @@
 package org.sample;
 
 public class Sample {
+	private void m3() {
+		
+	System.out.println("Sam completed work");
+
+	}
 	
 	public static void main(String[] args) {
 		
