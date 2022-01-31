@@ -13,6 +13,9 @@ public class Sample {
 		System.out.println("hello");
 		System.out.println("hi");
 		System.out.println("bye");
+		System.out.println("ram complted work");
+		System.out.println("ram completed college");
+		System.out.println("WHO");
 		
 	}
 
